@@ -1,0 +1,9 @@
+{
+    "type": "sqlite",
+    "database": "./base de datos/bicirentemos.db",
+    "synchronize": true,
+    "logging": false,
+    "entities": [
+       "build/entity/**/*.js"
+    ]
+}
